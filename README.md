@@ -1,6 +1,5 @@
-# Alura Formação Java :computer:
+#                    Alura Formação Java :computer:
 
   
 
-
-
+<img src = "alura-formacao-java.jpg">
