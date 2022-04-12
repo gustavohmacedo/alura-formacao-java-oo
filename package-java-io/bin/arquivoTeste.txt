@@ -1,0 +1,37 @@
+Notebook Essentials E30: Modelo Np350XAA-KF3BR. 
+
+suporta até 16 gb de memoria DDR4 com frequência de até 2666mhz. 
+
+Memória RAM ideal de 8GB marca tasbash. 
+
+SSD de 1 Tb ou de 720 GB da Marca Kingspec vale a pena no (Ali Express) e o notebook vai melhorar muito em desempenho.
+
+
+Comando para ver no CMD a frequência da memória:
+
+Comando:  wmic memorychip get speed
+
+Obs: velocidade da minha mémória - 2400 MHz
+
+
+indicações: RAM
+
+Corsair Valueselect DDR4 8GB 2133MHz
+
+memoria sodimm ddr4 8gb
+
+Memoria Ram DDR4 PUSKILL 8 GB  2400MHz
+
+Indicações: SSD M.2
+
+SSD de 720 GB da Kingspec
+
+SSD Da Kingston 480GB (ideal)
+
+_____________________________________________________________________Escritório:
+
+1- Monitor Gamer LG 25UM58G 25 - média de preço: 999,00
+2- Cadeira Gamer Mx7, Mymax, 25.008788 - preço: 1084,00
+3- Mesa Gamer Madesa 9409 - preta - preço: 330,00
+
+total: 2.303,00
